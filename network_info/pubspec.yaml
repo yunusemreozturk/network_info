@@ -1,0 +1,17 @@
+name: network_info
+description: A starting point for Dart libraries or applications.
+version: 1.0.0
+repository: https://github.com/yunusemreozturk/network_info
+
+environment:
+  sdk: ^3.0.6
+
+# Add regular dependencies here.
+dependencies:
+  # for internet check
+  internet_connection_checker: ^1.0.0+1
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.21.0
+  mocktail: ^1.0.3
